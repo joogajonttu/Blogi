@@ -1,0 +1,15 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'My New Hugo Project'
+theme = "PaperMod"
+[params]
+  ShowReadingTime = true
+  ShowShareButtons = true
+
+
+[menu]
+
+[[menu.main]]
+name = "Posts"
+url = "/posts/"
+weight = 10
