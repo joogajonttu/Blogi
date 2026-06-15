@@ -11,7 +11,7 @@ paginate = 5
   showPostNavLinks = true
   showBreadCrumbs = true
   ShowShareButtons = true
-  hideFooter = true
+  hideFooter = "© 2026 Joogajonttu"
 
 [menu]
 
