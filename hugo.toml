@@ -11,11 +11,20 @@ paginate = 5
   showPostNavLinks = true
   showBreadCrumbs = true
   ShowShareButtons = true
-  hideFooter = "© 2026 Joogajonttu"
-
+  copyright = "© 2026 Joogajonttu"
+  
 [menu]
+[[menu.main]]
+name = "Etusivu"
+url = "/"
+weight = 1
 
 [[menu.main]]
-name = "Posts"
-url = "/posts/"
-weight = 10
+name = "Julkaisut"
+url = "/julkaisut/"
+weight = 2
+
+[[menu.main]]
+name = "Minusta"
+url = "/minusta/"
+weight = 3
