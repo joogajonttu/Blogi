@@ -4,8 +4,12 @@ title = "Joogajonttu"
 
 theme = "PaperMod"
 
+paginate = 5
+
 [params]
-  ShowReadingTime = true
+  showReadingTime = true
+  showPostNavLinks = true
+  showBreadCrumbs = true
   ShowShareButtons = true
 
 
