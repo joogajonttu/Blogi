@@ -1,7 +1,9 @@
-baseURL = 'https://example.org/'
-locale = 'en-us'
-title = 'My New Hugo Project'
+baseURL = "https://joogajonttu.github.io/Blogi/"
+languageCode = "fi"
+title = "Joogajonttu"
+
 theme = "PaperMod"
+
 [params]
   ShowReadingTime = true
   ShowShareButtons = true
